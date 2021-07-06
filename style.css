@@ -1,0 +1,32 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.color-orange{
+    color: orange;
+}
+section{
+    
+     display: flex; 
+}
+h1{
+    font-size: 50px;
+    text-transform: capitalize;
+    
+}
+.part-1{
+    width: 50%;
+    padding-left: 150px;
+    margin-top: 70px;
+    /* padding-top: 200px; */
+}
+button{
+    padding: 10px;
+    margin: 5px;
+    text-transform: capitalize;
+    background-image: linear-gradient(orange,tomato);
+    border: none;
+    border-radius: 10px;
+}
+button a{
+    text-decoration: none;
+    color: white;
